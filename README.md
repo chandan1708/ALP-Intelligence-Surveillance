@@ -66,7 +66,7 @@ https://www.analyticsvidhya.com/blog/202
   - mediapipe
   
 - **Version Control:**
-  - Git
+  - GitHub
 
 - **Deployment:**
   - Shell Scripts
